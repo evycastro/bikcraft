@@ -27,7 +27,7 @@ O site é responsivo: adaptável para computadores, tablets e smartphones.
 
 ![Mockup Site](https://github.com/evycastro/bikcraft/blob/main/img/github/mockup.png?raw=true)
 
-Acesse o projeto [aqui](https://evycastro.github.io/bikcraft/){:target="_blank" rel="noopener"}.
+Acesse o projeto [aqui](https://evycastro.github.io/bikcraft/).
 
 ---
 
